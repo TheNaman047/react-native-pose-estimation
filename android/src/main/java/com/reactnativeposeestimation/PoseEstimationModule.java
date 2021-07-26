@@ -22,7 +22,6 @@ public class PoseEstimationModule extends ReactContextBaseJavaModule {
         return NAME;
     }
 
-
     // Example method
     // See https://reactnative.dev/docs/native-modules-android
     @ReactMethod
